@@ -32,4 +32,7 @@ Include other ensemble methods
 Use neural nets
 <br>
 Extract/include more features
+<br><br>
+Notes:
 <br>
+Including k means cluster improves accuracy by only ~1%
